@@ -5,3 +5,7 @@ h1 {
 #listItems {
   font-family: 'Roboto', sans-serif;
 }
+
+.active {
+    background: rgba(239, 239, 199, 1);
+}
